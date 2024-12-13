@@ -1,7 +1,7 @@
 # comp590-A4
 
 # Chain Servers in Erlang
-
+# Team Member: Comfort Donkor
 ## Overview
 
 This Erlang program demonstrates a chain of three servers that pass messages to each other. Each server handles specific types of messages, and unhandled messages are forwarded to the next server in the chain.
